@@ -1,0 +1,2568 @@
+[
+    
+    {
+        "id": 1,
+        "country": "Afghanistan",
+        "code": "AF",
+        "flag": "🇦🇫",
+        "capital": "Kabul",
+        "population": 38928346,
+        "religious": {
+            "Islam": 99.7,
+            "Other": 0.3
+        }
+    },
+    {
+        "id": 2,
+        "country": "Albania",
+        "code": "AL",
+        "flag": "🇦🇱",
+        "capital": "Tirana",
+        "population": 2877797,
+        "religious": {
+            "Islam": 58.8,
+            "Christianity": 16.9,
+            "Other": 24.3
+        }
+    },
+    {
+        "id": 3,
+        "country": "Algeria",
+        "code": "DZ",
+        "flag": "🇩🇿",
+        "capital": "Algiers",
+        "population": 43851044,
+        "religious": {
+            "Islam": 99,
+            "Other": 1
+        }
+    },
+    {
+        "id": 4,
+        "country": "Andorra",
+        "code": "AD",
+        "flag": "🇦🇩",
+        "capital": "Andorra la Vella",
+        "population": 77265,
+        "religious": {
+            "Christianity": 88.2,
+            "Islam": 3.4,
+            "Other": 8.4
+        }
+    },
+    {
+        "id": 5,
+        "country": "Angola",
+        "code": "AO",
+        "flag": "🇦🇴",
+        "capital": "Luanda",
+        "population": 32866272,
+        "religious": {
+            "Christianity": 95,
+            "Other": 5
+        }
+    },
+    {
+        "id": 6,
+        "country": "Antigua and Barbuda",
+        "code": "AG",
+        "flag": "🇦🇬",
+        "capital": "Saint John's",
+        "population": 97928,
+        "religious": {
+            "Christianity": 98.1,
+            "Other": 1.9
+        }
+    },
+    {
+        "id": 7,
+        "country": "Argentina",
+        "code": "AR",
+        "flag": "🇦🇷",
+        "capital": "Buenos Aires",
+        "population": 45195774,
+        "religious": {
+            "Christianity": 92.6,
+            "Islam": 2.3,
+            "Other": 5.1
+        }
+    },
+    {
+        "id": 8,
+        "country": "Armenia",
+        "code": "AM",
+        "flag": "🇦🇲",
+        "capital": "Yerevan",
+        "population": 2963243,
+        "religious": {
+            "Christianity": 95.1,
+            "Other": 4.9
+        }
+    },
+    {
+        "id": 9,
+        "country": "Australia",
+        "code": "AU",
+        "flag": "🇦🇺",
+        "capital": "Canberra",
+        "population": 25499884,
+        "religious": {
+            "Christianity": 52.1,
+            "Other": 47.9
+        }
+    },
+    {
+        "id": 10,
+        "country": "Austria",
+        "code": "AT",
+        "flag": "🇦🇹",
+        "capital": "Vienna",
+        "population": 9006398,
+        "religious": {
+            "Christianity": 74,
+            "Islam": 8.4,
+            "Other": 17.6
+        }
+    },
+    {
+        "id": 11,
+        "country": "Azerbaijan",
+        "code": "AZ",
+        "flag": "🇦🇿",
+        "capital": "Baku",
+        "population": 10139177,
+        "religious": {
+            "Islam": 96.9,
+            "Christianity": 3,
+            "Other": 0.1
+        }
+    },
+    {
+        "id": 12,
+        "country": "Bahamas",
+        "code": "BS",
+        "flag": "🇧🇸",
+        "capital": "Nassau",
+        "population": 393244,
+        "religious": {
+            "Christianity": 95.9,
+            "Other": 4.1
+        }
+    },
+    {
+        "id": 13,
+        "country": "Bahrain",
+        "code": "BH",
+        "flag": "🇧🇭",
+        "capital": "Manama",
+        "population": 1701575,
+        "religious": {
+            "Islam": 99.8,
+            "Other": 0.2
+        }
+    },
+    {
+        "id": 14,
+        "country": "Bangladesh",
+        "code": "BD",
+        "flag": "🇧🇩",
+        "capital": "Dhaka",
+        "population": 164689383,
+        "religious": {
+            "Islam": 89.1,
+            "Hinduism": 10,
+            "Other": 0.9
+        }
+    },
+    {
+        "id": 15,
+        "country": "Barbados",
+        "code": "BB",
+        "flag": "🇧🇧",
+        "capital": "Bridgetown",
+        "population": 287375,
+        "religious": {
+            "Christianity": 95.1,
+            "Other": 4.9
+        }
+    },
+    {
+        "id": 16,
+        "country": "Belarus",
+        "code": "BY",
+        "flag": "🇧🇾",
+        "capital": "Minsk",
+        "population": 9449323,
+        "religious": {
+            "Christianity": 83.4,
+            "Other": 16.6
+        }
+    },
+    {
+        "id": 17,
+        "country": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "capital": "Brussels",
+        "population": 11589623,
+        "religious": {
+            "Christianity": 65,
+            "Islam": 5.1,
+            "Other": 29.9
+        }
+    },
+    {
+        "id": 18,
+        "country": "Belize",
+        "code": "BZ",
+        "flag": "🇧🇿",
+        "capital": "Belmopan",
+        "population": 397628,
+        "religious": {
+            "Christianity": 73.8,
+            "Other": 26.2
+        }
+    },
+    {
+        "id": 19,
+        "country": "Benin",
+        "code": "BJ",
+        "flag": "🇧🇯",
+        "capital": "Porto-Novo",
+        "population": 12123198,
+        "religious": {
+            "Christianity": 42.8,
+            "Islam": 27.7,
+            "Other": 29.5
+        }
+    },
+    {
+        "id": 20,
+        "country": "Bhutan",
+        "code": "BT",
+        "flag": "🇧🇹",
+        "capital": "Thimphu",
+        "population": 771608,
+        "religious": {
+            "Buddhism": 75.6,
+            "Hinduism": 22.6,
+            "Other": 1.8
+        }
+    },
+    {
+        "id": 21,
+        "country": "Bolivia",
+        "code": "BO",
+        "flag": "🇧🇴",
+        "capital": "Sucre",
+        "population": 11673021,
+        "religious": {
+            "Christianity": 76.8,
+            "Other": 23.2
+        }
+    },
+    {
+        "id": 22,
+        "country": "Bosnia and Herzegovina",
+        "code": "BA",
+        "flag": "🇧🇦",
+        "capital": "Sarajevo",
+        "population": 3280819,
+        "religious": {
+            "Islam": 51,
+            "Christianity": 46,
+            "Other": 3
+        }
+    },
+    {
+        "id": 23,
+        "country": "Botswana",
+        "code": "BW",
+        "flag": "🇧🇼",
+        "capital": "Gaborone",
+        "population": 2351627,
+        "religious": {
+            "Christianity": 79.1,
+            "Other": 20.9
+        }
+    },
+    {
+        "id": 24,
+        "country": "Brazil",
+        "code": "BR",
+        "flag": "🇧🇷",
+        "capital": "Brasília",
+        "population": 212559417,
+        "religious": {
+            "Christianity": 86.8,
+            "Other": 13.2
+        }
+    },
+    {
+        "id": 25,
+        "country": "Brunei",
+        "code": "BN",
+        "flag": "🇧🇳",
+        "capital": "Bandar Seri Begawan",
+        "population": 437479,
+        "religious": {
+            "Islam": 78.8,
+            "Buddhism": 8.7,
+            "Christianity": 7.8,
+            "Other": 4.7
+        }
+    },
+    {
+        "id": 26,
+        "country": "Bulgaria",
+        "code": "BG",
+        "flag": "🇧🇬",
+        "capital": "Sofia",
+        "population": 6948445,
+        "religious": {
+            "Christianity": 83.5,
+            "Islam": 10.2,
+            "Other": 6.3
+        }
+    },
+    {
+        "id": 27,
+        "country": "Burkina Faso",
+        "code": "BF",
+        "flag": "🇧🇫",
+        "capital": "Ouagadougou",
+        "population": 20903278,
+        "religious": {
+            "Islam": 61.5,
+            "Christianity": 23.2,
+            "Other": 15.3
+        }
+    },
+    {
+        "id": 28,
+        "country": "Burundi",
+        "code": "BI",
+        "flag": "🇧🇮",
+        "capital": "Gitega",
+        "population": 11890784,
+        "religious": {
+            "Christianity": 86.3,
+            "Islam": 12.5,
+            "Other": 1.2
+        }
+    },
+    {
+        "id": 29,
+        "country": "Cabo Verde",
+        "code": "CV",
+        "flag": "🇨🇻",
+        "capital": "Praia",
+        "population": 555987,
+        "religious": {
+            "Christianity": 93.8,
+            "Islam": 0.4,
+            "Other": 5.8
+        }
+    },
+    {
+        "id": 30,
+        "country": "Cambodia",
+        "code": "KH",
+        "flag": "🇰🇭",
+        "capital": "Phnom Penh",
+        "population": 16718965,
+        "religious": {
+            "Buddhism": 95,
+            "Islam": 2.1,
+            "Other": 2.9
+        }
+    },
+    {
+        "id": 31,
+        "country": "Cameroon",
+        "code": "CM",
+        "flag": "🇨🇲",
+        "capital": "Yaoundé",
+        "population": 26545863,
+        "religious": {
+            "Christianity": 69,
+            "Islam": 21,
+            "Other": 10
+        }
+    },
+    {
+        "id": 32,
+        "country": "Canada",
+        "code": "CA",
+        "flag": "🇨🇦",
+        "capital": "Ottawa",
+        "population": 37742154,
+        "religious": {
+            "Christianity": 67.3,
+            "Islam": 3.2,
+            "Other": 29.5
+        }
+    },
+    {
+        "id": 33,
+        "country": "Central African Republic",
+        "code": "CF",
+        "flag": "🇨🇫",
+        "capital": "Bangui",
+        "population": 4829767,
+        "religious": {
+            "Christianity": 89.6,
+            "Islam": 8.7,
+            "Other": 1.7
+        }
+    },
+    {
+        "id": 34,
+        "country": "Chad",
+        "code": "TD",
+        "flag": "🇹🇩",
+        "capital": "N'Djamena",
+        "population": 16425864,
+        "religious": {
+            "Islam": 52.1,
+            "Christianity": 44.1,
+            "Other": 3.8
+        }
+    },
+    {
+        "id": 35,
+        "country": "Chile",
+        "code": "CL",
+        "flag": "🇨🇱",
+        "capital": "Santiago",
+        "population": 19116201,
+        "religious": {
+            "Christianity": 68.6,
+            "Other": 31.4
+        }
+    },
+    {
+        "id": 36,
+        "country": "China",
+        "code": "CN",
+        "flag": "🇨🇳",
+        "capital": "Beijing",
+        "population": 1400050000,
+        "religious": {
+            "Buddhism": 18.2,
+            "Christianity": 5.1,
+            "Islam": 1.8,
+            "Other": 74.9
+        }
+    },
+    {
+        "id": 37,
+        "country": "Colombia",
+        "code": "CO",
+        "flag": "🇨🇴",
+        "capital": "Bogotá",
+        "population": 50882891,
+        "religious": {
+            "Christianity": 90,
+            "Other": 10
+        }
+    },
+    {
+        "id": 38,
+        "country": "Comoros",
+        "code": "KM",
+        "flag": "🇰🇲",
+        "capital": "Moroni",
+        "population": 869601,
+        "religious": {
+            "Islam": 98,
+            "Christianity": 2
+        }
+    },
+    {
+        "id": 39,
+        "country": "Congo (Congo-Brazzaville)",
+        "code": "CG",
+        "flag": "🇨🇬",
+        "capital": "Brazzaville",
+        "population": 5518087,
+        "religious": {
+            "Christianity": 50,
+            "Islam": 1.3,
+            "Other": 48.7
+        }
+    },
+    {
+        "id": 40,
+        "country": "Costa Rica",
+        "code": "CR",
+        "flag": "🇨🇷",
+        "capital": "San José",
+        "population": 5094118,
+        "religious": {
+            "Christianity": 95,
+            "Other": 5
+        }
+    },
+    {
+        "id": 41,
+        "country": "Cote d'Ivoire",
+        "code": "CI",
+        "flag": "🇨🇮",
+        "capital": "Yamoussoukro",
+        "population": 26378274,
+        "religious": {
+            "Islam": 42.9,
+            "Christianity": 33.9,
+            "Other": 23.2
+        }
+    },
+    {
+        "id": 42,
+        "country": "Croatia",
+        "code": "HR",
+        "flag": "🇭🇷",
+        "capital": "Zagreb",
+        "population": 4105267,
+        "religious": {
+            "Christianity": 91.1,
+            "Islam": 1.6,
+            "Other": 7.3
+        }
+    },
+    {
+        "id": 43,
+        "country": "Cuba",
+        "code": "CU",
+        "flag": "🇨🇺",
+        "capital": "Havana",
+        "population": 11326616,
+        "religious": {
+            "Christianity": 59.2,
+            "Folk Religion": 20.1,
+            "Other": 20.7
+        }
+    },
+    {
+        "id": 44,
+        "country": "Cyprus",
+        "code": "CY",
+        "flag": "🇨🇾",
+        "capital": "Nicosia",
+        "population": 1207359,
+        "religious": {
+            "Christianity": 75.3,
+            "Islam": 18,
+            "Other": 6.7
+        }
+    },
+    {
+        "id": 45,
+        "country": "Czechia (Czech Republic)",
+        "code": "CZ",
+        "flag": "🇨🇿",
+        "capital": "Prague",
+        "population": 10708981,
+        "religious": {
+            "Christianity": 10.3,
+            "Atheist": 75.5,
+            "Other": 14.2
+        }
+    },
+    {
+        "id": 46,
+        "country": "Denmark",
+        "code": "DK",
+        "flag": "🇩🇰",
+        "capital": "Copenhagen",
+        "population": 5792202,
+        "religious": {
+            "Christianity": 74.2,
+            "Islam": 5.4,
+            "Other": 20.4
+        }
+    },
+    {
+        "id": 47,
+        "country": "Djibouti",
+        "code": "DJ",
+        "flag": "🇩🇯",
+        "capital": "Djibouti City",
+        "population": 988002,
+        "religious": {
+            "Islam": 94,
+            "Christianity": 6
+        }
+    },
+    {
+        "id": 48,
+        "country": "Dominica",
+        "code": "DM",
+        "flag": "🇩🇲",
+        "capital": "Roseau",
+        "population": 71986,
+        "religious": {
+            "Christianity": 96.4,
+            "Other": 3.6
+        }
+    },
+    {
+        "id": 49,
+        "country": "Dominican Republic",
+        "code": "DO",
+        "flag": "🇩🇴",
+        "capital": "Santo Domingo",
+        "population": 10847910,
+        "religious": {
+            "Christianity": 95,
+            "Other": 5
+        }
+    },
+    {
+        "id": 50,
+        "country": "Ecuador",
+        "code": "EC",
+        "flag": "🇪🇨",
+        "capital": "Quito",
+        "population": 17643054,
+        "religious": {
+            "Christianity": 80,
+            "Other": 20
+        }
+    },
+    {
+        "id": 51,
+        "country": "Egypt",
+        "code": "EG",
+        "flag": "🇪🇬",
+        "capital": "Cairo",
+        "population": 102334404,
+        "religious": {
+            "Islam": 90,
+            "Christianity": 10
+        }
+    },
+    {
+        "id": 52,
+        "country": "El Salvador",
+        "code": "SV",
+        "flag": "🇸🇻",
+        "capital": "San Salvador",
+        "population": 6486205,
+        "religious": {
+            "Christianity": 90.2,
+            "Other": 9.8
+        }
+    },
+    {
+        "id": 53,
+        "country": "Equatorial Guinea",
+        "code": "GQ",
+        "flag": "🇬🇶",
+        "capital": "Malabo",
+        "population": 1402985,
+        "religious": {
+            "Christianity": 93,
+            "Islam": 1.6,
+            "Other": 5.4
+        }
+    },
+    {
+        "id": 54,
+        "country": "Eritrea",
+        "code": "ER",
+        "flag": "🇪🇷",
+        "capital": "Asmara",
+        "population": 3546421,
+        "religious": {
+            "Christianity": 63,
+            "Islam": 36,
+            "Other": 1
+        }
+    },
+    {
+        "id": 55,
+        "country": "Estonia",
+        "code": "EE",
+        "flag": "🇪🇪",
+        "capital": "Tallinn",
+        "population": 1326535,
+        "religious": {
+            "Christianity": 64.3,
+            "Other": 35.7
+        }
+    },
+    {
+        "id": 56,
+        "country": "Eswatini (fmr. \"Swaziland\")",
+        "code": "SZ",
+        "flag": "🇸🇿",
+        "capital": "Lobamba",
+        "population": 1160164,
+        "religious": {
+            "Christianity": 88.3,
+            "Islam": 2.2,
+            "Other": 9.5
+        }
+    },
+    {
+        "id": 57,
+        "country": "Ethiopia",
+        "code": "ET",
+        "flag": "🇪🇹",
+        "capital": "Addis Ababa",
+        "population": 114963588,
+        "religious": {
+            "Christianity": 62.8,
+            "Islam": 33.9,
+            "Other": 3.3
+        }
+    },
+    {
+        "id": 58,
+        "country": "Fiji",
+        "code": "FJ",
+        "flag": "🇫🇯",
+        "capital": "Suva",
+        "population": 896445,
+        "religious": {
+            "Christianity": 64.4,
+            "Hinduism": 27.9,
+            "Other": 7.7
+        }
+    },
+    {
+        "id": 59,
+        "country": "Finland",
+        "code": "FI",
+        "flag": "🇫🇮",
+        "capital": "Helsinki",
+        "population": 5540720,
+        "religious": {
+            "Christianity": 71.8,
+            "Islam": 2.7,
+            "Other": 25.5
+        }
+    },
+    {
+        "id": 60,
+        "country": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "capital": "Paris",
+        "population": 65273511,
+        "religious": {
+            "Christianity": 51.1,
+            "Islam": 5.8,
+            "Other": 43.1
+        }
+    },
+    {
+        "id": 61,
+        "country": "Gabon",
+        "code": "GA",
+        "flag": "🇬🇦",
+        "capital": "Libreville",
+        "population": 2225734,
+        "religious": {
+            "Christianity": 88,
+            "Islam": 9,
+            "Other": 3
+        }
+    },
+    {
+        "id": 62,
+        "country": "Gambia",
+        "code": "GM",
+        "flag": "🇬🇲",
+        "capital": "Banjul",
+        "population": 2416668,
+        "religious": {
+            "Islam": 95.7,
+            "Christianity": 3.6,
+            "Other": 0.7
+        }
+    },
+    {
+        "id": 63,
+        "country": "Georgia",
+        "code": "GE",
+        "flag": "🇬🇪",
+        "capital": "Tbilisi",
+        "population": 3989167,
+        "religious": {
+            "Christianity": 83.4,
+            "Islam": 10.7,
+            "Other": 5.9
+        }
+    },
+    {
+        "id": 64,
+        "country": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "capital": "Berlin",
+        "population": 83783942,
+        "religious": {
+            "Christianity": 60.7,
+            "Islam": 5.3,
+            "Other": 34
+        }
+    },
+    {
+        "id": 65,
+        "country": "Ghana",
+        "code": "GH",
+        "flag": "🇬🇭",
+        "capital": "Accra",
+        "population": 31072940,
+        "religious": {
+            "Christianity": 71.2,
+            "Islam": 17.6,
+            "Other": 11.2
+        }
+    },
+    {
+        "id": 66,
+        "country": "Greece",
+        "code": "GR",
+        "flag": "🇬🇷",
+        "capital": "Athens",
+        "population": 10423054,
+        "religious": {
+            "Christianity": 88.1,
+            "Islam": 5.3,
+            "Other": 6.6
+        }
+    },
+    {
+        "id": 67,
+        "country": "Grenada",
+        "code": "GD",
+        "flag": "🇬🇩",
+        "capital": "St. George's",
+        "population": 112523,
+        "religious": {
+            "Christianity": 92.6,
+            "Other": 7.4
+        }
+    },
+    {
+        "id": 68,
+        "country": "Guatemala",
+        "code": "GT",
+        "flag": "🇬🇹",
+        "capital": "Guatemala City",
+        "population": 17915568,
+        "religious": {
+            "Christianity": 90,
+            "Other": 10
+        }
+    },
+    {
+        "id": 69,
+        "country": "Guinea",
+        "code": "GN",
+        "flag": "🇬🇳",
+        "capital": "Conakry",
+        "population": 13132795,
+        "religious": {
+            "Islam": 85,
+            "Christianity": 8,
+            "Other": 7
+        }
+    },
+    {
+        "id": 70,
+        "country": "Guinea-Bissau",
+        "code": "GW",
+        "flag": "🇬🇼",
+        "capital": "Bissau",
+        "population": 1968001,
+        "religious": {
+            "Islam": 45.1,
+            "Christianity": 22.1,
+            "Other": 32.8
+        }
+    },
+    {
+        "id": 71,
+        "country": "Guyana",
+        "code": "GY",
+        "flag": "🇬🇾",
+        "capital": "Georgetown",
+        "population": 786559,
+        "religious": {
+            "Christianity": 52,
+            "Hinduism": 24.8,
+            "Islam": 6.8,
+            "Other": 16.4
+        }
+    },
+    {
+        "id": 72,
+        "country": "Haiti",
+        "code": "HT",
+        "flag": "🇭🇹",
+        "capital": "Port-au-Prince",
+        "population": 11402528,
+        "religious": {
+            "Christianity": 96,
+            "Other": 4
+        }
+    },
+    {
+        "id": 73,
+        "country": "Honduras",
+        "code": "HN",
+        "flag": "🇭🇳",
+        "capital": "Tegucigalpa",
+        "population": 9904608,
+        "religious": {
+            "Christianity": 87,
+            "Other": 13
+        }
+    },
+    {
+        "id": 74,
+        "country": "Hungary",
+        "code": "HU",
+        "flag": "🇭🇺",
+        "capital": "Budapest",
+        "population": 9660351,
+        "religious": {
+            "Christianity": 56.3,
+            "Other": 43.7
+        }
+    },
+    {
+        "id": 75,
+        "country": "Iceland",
+        "code": "IS",
+        "flag": "🇮🇸",
+        "capital": "Reykjavik",
+        "population": 343599,
+        "religious": {
+            "Christianity": 74.6,
+            "Other": 25.4
+        }
+    },
+    {
+        "id": 75,
+        "country": "Iceland",
+        "code": "IS",
+        "flag": "🇮🇸",
+        "capital": "Reykjavik",
+        "population": 343599,
+        "religious": {
+            "Christianity": 74.6,
+            "Other": 25.4
+        }
+    },
+    {
+        "id": 76,
+        "country": "India",
+        "code": "IN",
+        "flag": "🇮🇳",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "religious": {
+            "Hinduism": 79.8,
+            "Islam": 14.2,
+            "Christianity": 2.3,
+            "Other": 3.7
+        }
+    },
+    {
+        "id": 77,
+        "country": "Indonesia",
+        "code": "ID",
+        "flag": "🇮🇩",
+        "capital": "Jakarta",
+        "population": 273523615,
+        "religious": {
+            "Islam": 87.2,
+            "Christianity": 10.2,
+            "Other": 2.6
+        }
+    },
+    {
+        "id": 78,
+        "country": "Iran",
+        "code": "IR",
+        "flag": "🇮🇷",
+        "capital": "Tehran",
+        "population": 83992949,
+        "religious": {
+            "Islam": 99.4,
+            "Other": 0.6
+        }
+    },
+    {
+        "id": 79,
+        "country": "Iraq",
+        "code": "IQ",
+        "flag": "🇮🇶",
+        "capital": "Baghdad",
+        "population": 40222493,
+        "religious": {
+            "Islam": 95,
+            "Christianity": 1.4,
+            "Other": 3.6
+        }
+    },
+    {
+        "id": 80,
+        "country": "Ireland",
+        "code": "IE",
+        "flag": "🇮🇪",
+        "capital": "Dublin",
+        "population": 4937786,
+        "religious": {
+            "Christianity": 82.3,
+            "Other": 17.7
+        }
+    },
+    {
+        "id": 81,
+        "country": "Israel",
+        "code": "IL",
+        "flag": "🇮🇱",
+        "capital": "Jerusalem",
+        "population": 8655535,
+        "religious": {
+            "Judaism": 74.3,
+            "Islam": 17.8,
+            "Christianity": 2,
+            "Other": 5.9
+        }
+    },
+    {
+        "id": 82,
+        "country": "Italy",
+        "code": "IT",
+        "flag": "🇮🇹",
+        "capital": "Rome",
+        "population": 60244639,
+        "religious": {
+            "Christianity": 83.3,
+            "Islam": 3.7,
+            "Other": 13
+        }
+    },
+    {
+        "id": 83,
+        "country": "Jamaica",
+        "code": "JM",
+        "flag": "🇯🇲",
+        "capital": "Kingston",
+        "population": 2961167,
+        "religious": {
+            "Christianity": 68.9,
+            "Other": 31.1
+        }
+    },
+    {
+        "id": 84,
+        "country": "Japan",
+        "code": "JP",
+        "flag": "🇯🇵",
+        "capital": "Tokyo",
+        "population": 126476461,
+        "religious": {
+            "Shintoism": 70.4,
+            "Buddhism": 69.8,
+            "Christianity": 1.5,
+            "Other": 6.9
+        }
+    },
+    {
+        "id": 85,
+        "country": "Jordan",
+        "code": "JO",
+        "flag": "🇯🇴",
+        "capital": "Amman",
+        "population": 10203134,
+        "religious": {
+            "Islam": 97.2,
+            "Christianity": 2.2,
+            "Other": 0.6
+        }
+    },
+    {
+        "id": 86,
+        "country": "Kazakhstan",
+        "code": "KZ",
+        "flag": "🇰🇿",
+        "capital": "Nur-Sultan",
+        "population": 18776707,
+        "religious": {
+            "Islam": 70.2,
+            "Christianity": 26.2,
+            "Other": 3.6
+        }
+    },
+    {
+        "id": 87,
+        "country": "Kenya",
+        "code": "KE",
+        "flag": "🇰🇪",
+        "capital": "Nairobi",
+        "population": 53771296,
+        "religious": {
+            "Christianity": 85.5,
+            "Islam": 10.9,
+            "Other": 3.6
+        }
+    },
+    {
+        "id": 88,
+        "country": "Kiribati",
+        "code": "KI",
+        "flag": "🇰🇮",
+        "capital": "Tarawa",
+        "population": 119446,
+        "religious": {
+            "Christianity": 96.2,
+            "Other": 3.8
+        }
+    },
+    {
+        "id": 89,
+        "country": "Kuwait",
+        "code": "KW",
+        "flag": "🇰🇼",
+        "capital": "Kuwait City",
+        "population": 4270571,
+        "religious": {
+            "Islam": 74.6,
+            "Christianity": 18.2,
+            "Other": 7.2
+        }
+    },
+    {
+        "id": 90,
+        "country": "Kyrgyzstan",
+        "code": "KG",
+        "flag": "🇰🇬",
+        "capital": "Bishkek",
+        "population": 6524195,
+        "religious": {
+            "Islam": 75,
+            "Christianity": 20,
+            "Other": 5
+        }
+    },
+    {
+        "id": 91,
+        "country": "Laos",
+        "code": "LA",
+        "flag": "🇱🇦",
+        "capital": "Vientiane",
+        "population": 7275560,
+        "religious": {
+            "Buddhism": 66.8,
+            "Christianity": 1.5,
+            "Other": 31.7
+        }
+    },
+    {
+        "id": 92,
+        "country": "Latvia",
+        "code": "LV",
+        "flag": "🇱🇻",
+        "capital": "Riga",
+        "population": 1886198,
+        "religious": {
+            "Christianity": 55.6,
+            "Other": 44.4
+        }
+    },
+    {
+        "id": 93,
+        "country": "Lebanon",
+        "code": "LB",
+        "flag": "🇱🇧",
+        "capital": "Beirut",
+        "population": 6825445,
+        "religious": {
+            "Islam": 54,
+            "Christianity": 40.5,
+            "Other": 5.5
+        }
+    },
+    {
+        "id": 94,
+        "country": "Lesotho",
+        "code": "LS",
+        "flag": "🇱🇸",
+        "capital": "Maseru",
+        "population": 2142249,
+        "religious": {
+            "Christianity": 90,
+            "Other": 10
+        }
+    },
+    {
+        "id": 95,
+        "country": "Liberia",
+        "code": "LR",
+        "flag": "🇱🇷",
+        "capital": "Monrovia",
+        "population": 5057681,
+        "religious": {
+            "Christianity": 85.6,
+            "Islam": 12.2,
+            "Other": 2.2
+        }
+    },
+    {
+        "id": 96,
+        "country": "Libya",
+        "code": "LY",
+        "flag": "🇱🇾",
+        "capital": "Tripoli",
+        "population": 6871292,
+        "religious": {
+            "Islam": 97,
+            "Other": 3
+        }
+    },
+    {
+        "id": 97,
+        "country": "Liechtenstein",
+        "code": "LI",
+        "flag": "🇱🇮",
+        "capital": "Vaduz",
+        "population": 38128,
+        "religious": {
+            "Christianity": 84.3,
+            "Other": 15.7
+        }
+    },
+    {
+        "id": 98,
+        "country": "Lithuania",
+        "code": "LT",
+        "flag": "🇱🇹",
+        "capital": "Vilnius",
+        "population": 2722289,
+        "religious": {
+            "Christianity": 77.2,
+            "Other": 22.8
+        }
+    },
+    {
+        "id": 99,
+        "country": "Luxembourg",
+        "code": "LU",
+        "flag": "🇱🇺",
+        "capital": "Luxembourg City",
+        "population": 634814,
+        "religious": {
+            "Christianity": 70.4,
+            "Other": 29.6
+        }
+    },
+    {
+        "id": 100,
+        "country": "Madagascar",
+        "code": "MG",
+        "flag": "🇲🇬",
+        "capital": "Antananarivo",
+        "population": 27691018,
+        "religious": {
+            "Christianity": 85.3,
+            "Islam": 7,
+            "Other": 7.7
+        }
+    },
+    {
+        "id": 101,
+        "country": "Malawi",
+        "code": "MW",
+        "flag": "🇲🇼",
+        "capital": "Lilongwe",
+        "population": 19129952,
+        "religious": {
+            "Christianity": 83,
+            "Islam": 13,
+            "Other": 4
+        }
+    },
+    {
+        "id": 102,
+        "country": "Malaysia",
+        "code": "MY",
+        "flag": "🇲🇾",
+        "capital": "Kuala Lumpur",
+        "population": 32365999,
+        "religious": {
+            "Islam": 61.3,
+            "Buddhism": 19.8,
+            "Christianity": 9.2,
+            "Hinduism": 6.3,
+            "Other": 3.4
+        }
+    },
+    {
+        "id": 103,
+        "country": "Maldives",
+        "code": "MV",
+        "flag": "🇲🇻",
+        "capital": "Malé",
+        "population": 540542,
+        "religious": {
+            "Islam": 100,
+            "Other": 0
+        }
+    },
+    {
+        "id": 104,
+        "country": "Mali",
+        "code": "ML",
+        "flag": "🇲🇱",
+        "capital": "Bamako",
+        "population": 20250833,
+        "religious": {
+            "Islam": 94.8,
+            "Christianity": 2.4,
+            "Other": 2.8
+        }
+    },
+    {
+        "id": 105,
+        "country": "Malta",
+        "code": "MT",
+        "flag": "🇲🇹",
+        "capital": "Valletta",
+        "population": 514564,
+        "religious": {
+            "Christianity": 94.4,
+            "Other": 5.6
+        }
+    },
+    {
+        "id": 106,
+        "country": "Marshall Islands",
+        "code": "MH",
+        "flag": "🇲🇭",
+        "capital": "Majuro",
+        "population": 59190,
+        "religious": {
+            "Christianity": 97,
+            "Other": 3
+        }
+    },
+    {
+        "id": 107,
+        "country": "Mauritania",
+        "code": "MR",
+        "flag": "🇲🇷",
+        "capital": "Nouakchott",
+        "population": 4649658,
+        "religious": {
+            "Islam": 99.9,
+            "Other": 0.1
+        }
+    },
+    {
+        "id": 108,
+        "country": "Mauritius",
+        "code": "MU",
+        "flag": "🇲🇺",
+        "capital": "Port Louis",
+        "population": 1271768,
+        "religious": {
+            "Hinduism": 48.5,
+            "Christianity": 32.7,
+            "Islam": 17.3,
+            "Other": 1.5
+        }
+    },
+    {
+        "id": 109,
+        "country": "Mexico",
+        "code": "MX",
+        "flag": "🇲🇽",
+        "capital": "Mexico City",
+        "population": 128932753,
+        "religious": {
+            "Christianity": 90,
+            "Other": 10
+        }
+    },
+    {
+        "id": 110,
+        "country": "Micronesia",
+        "code": "FM",
+        "flag": "🇫🇲",
+        "capital": "Palikir",
+        "population": 115021,
+        "religious": {
+            "Christianity": 96,
+            "Other": 4
+        }
+    },
+    {
+        "id": 111,
+        "country": "Moldova",
+        "code": "MD",
+        "flag": "🇲🇩",
+        "capital": "Chișinău",
+        "population": 2657637,
+        "religious": {
+            "Christianity": 93.3,
+            "Other": 6.7
+        }
+    },
+    {
+        "id": 112,
+        "country": "Monaco",
+        "code": "MC",
+        "flag": "🇲🇨",
+        "capital": "Monaco",
+        "population": 39242,
+        "religious": {
+            "Christianity": 86,
+            "Other": 14
+        }
+    },
+    {
+        "id": 113,
+        "country": "Mongolia",
+        "code": "MN",
+        "flag": "🇲🇳",
+        "capital": "Ulaanbaatar",
+        "population": 3278292,
+        "religious": {
+            "Buddhism": 53,
+            "Christianity": 2.9,
+            "Islam": 3,
+            "Other": 41.1
+        }
+    },
+    {
+        "id": 114,
+        "country": "Montenegro",
+        "code": "ME",
+        "flag": "🇲🇪",
+        "capital": "Podgorica",
+        "population": 622359,
+        "religious": {
+            "Christianity": 85.3,
+            "Islam": 12.6,
+            "Other": 2.1
+        }
+    },
+    {
+        "id": 115,
+        "country": "Morocco",
+        "code": "MA",
+        "flag": "🇲🇦",
+        "capital": "Rabat",
+        "population": 36910560,
+        "religious": {
+            "Islam": 99,
+            "Christianity": 0.9,
+            "Other": 0.1
+        }
+    },
+    {
+        "id": 116,
+        "country": "Mozambique",
+        "code": "MZ",
+        "flag": "🇲🇿",
+        "capital": "Maputo",
+        "population": 31255435,
+        "religious": {
+            "Christianity": 56.1,
+            "Islam": 17.9,
+            "Other": 26
+        }
+    },
+    {
+        "id": 117,
+        "country": "Myanmar",
+        "code": "MM",
+        "flag": "🇲🇲",
+        "capital": "Naypyidaw",
+        "population": 54409800,
+        "religious": {
+            "Buddhism": 87.9,
+            "Christianity": 6.2,
+            "Islam": 4.3,
+            "Other": 1.6
+        }
+    },
+    {
+        "id": 118,
+        "country": "Namibia",
+        "code": "NA",
+        "flag": "🇳🇦",
+        "capital": "Windhoek",
+        "population": 2540905,
+        "religious": {
+            "Christianity": 90,
+            "Other": 10
+        }
+    },
+    {
+        "id": 119,
+        "country": "Nauru",
+        "code": "NR",
+        "flag": "🇳🇷",
+        "capital": "Yaren District",
+        "population": 10834,
+        "religious": {
+            "Christianity": 88,
+            "Other": 12
+        }
+    },
+    {
+        "id": 120,
+        "country": "Nepal",
+        "code": "NP",
+        "flag": "🇳🇵",
+        "capital": "Kathmandu",
+        "population": 29136808,
+        "religious": {
+            "Hinduism": 81.3,
+            "Buddhism": 9,
+            "Islam": 4.4,
+            "Other": 5.3
+        }
+    },
+    {
+        "id": 121,
+        "country": "Netherlands",
+        "code": "NL",
+        "flag": "🇳🇱",
+        "capital": "Amsterdam",
+        "population": 17441139,
+        "religious": {
+            "Christianity": 43.8,
+            "Other": 56.2
+        }
+    },
+    {
+        "id": 122,
+        "country": "New Zealand",
+        "code": "NZ",
+        "flag": "🇳🇿",
+        "capital": "Wellington",
+        "population": 5084300,
+        "religious": {
+            "Christianity": 37.3,
+            "Other": 62.7
+        }
+    },
+    {
+        "id": 123,
+        "country": "Nicaragua",
+        "code": "NI",
+        "flag": "🇳🇮",
+        "capital": "Managua",
+        "population": 6624554,
+        "religious": {
+            "Christianity": 84.2,
+            "Other": 15.8
+        }
+    },
+    {
+        "id": 124,
+        "country": "Niger",
+        "code": "NE",
+        "flag": "🇳🇪",
+        "capital": "Niamey",
+        "population": 24206636,
+        "religious": {
+            "Islam": 99.3,
+            "Other": 0.7
+        }
+    },
+    {
+        "id": 125,
+        "country": "Nigeria",
+        "code": "NG",
+        "flag": "🇳🇬",
+        "capital": "Abuja",
+        "population": 206139589,
+        "religious": {
+            "Christianity": 46.3,
+            "Islam": 48.8,
+            "Other": 4.9
+        }
+    },
+    {
+        "id": 126,
+        "country": "North Korea",
+        "code": "KP",
+        "flag": "🇰🇵",
+        "capital": "Pyongyang",
+        "population": 25778816,
+        "religious": {
+            "Traditional Beliefs": 15.5,
+            "Buddhism": 4.5,
+            "Christianity": 2,
+            "Other": 78
+        }
+    },
+    {
+        "id": 127,
+        "country": "North Macedonia",
+        "code": "MK",
+        "flag": "🇲🇰",
+        "capital": "Skopje",
+        "population": 2083459,
+        "religious": {
+            "Christianity": 66.9,
+            "Islam": 28.6,
+            "Other": 4.5
+        }
+    },
+    {
+        "id": 128,
+        "country": "Norway",
+        "code": "NO",
+        "flag": "🇳🇴",
+        "capital": "Oslo",
+        "population": 5421241,
+        "religious": {
+            "Christianity": 70.6,
+            "Other": 29.4
+        }
+    },
+    {
+        "id": 129,
+        "country": "Oman",
+        "code": "OM",
+        "flag": "🇴🇲",
+        "capital": "Muscat",
+        "population": 5106626,
+        "religious": {
+            "Islam": 85.9,
+            "Christianity": 6.5,
+            "Hinduism": 5.5,
+            "Other": 2.1
+        }
+    },
+    {
+        "id": 130,
+        "country": "Pakistan",
+        "code": "PK",
+        "flag": "🇵🇰",
+        "capital": "Islamabad",
+        "population": 220892331,
+        "religious": {
+            "Islam": 96.5,
+            "Other": 3.5
+        }
+    },
+    {
+        "id": 131,
+        "country": "Palau",
+        "code": "PW",
+        "flag": "🇵🇼",
+        "capital": "Ngerulmud",
+        "population": 18094,
+        "religious": {
+            "Christianity": 86,
+            "Modekngei": 9.7,
+            "Other": 4.3
+        }
+    },
+    {
+        "id": 132,
+        "country": "Palestine",
+        "code": "PS",
+        "flag": "🇵🇸",
+        "capital": "Ramallah",
+        "population": 5101414,
+        "religious": {
+            "Islam": 85,
+            "Christianity": 14,
+            "Other": 1
+        }
+    },
+    {
+        "id": 133,
+        "country": "Panama",
+        "code": "PA",
+        "flag": "🇵🇦",
+        "capital": "Panama City",
+        "population": 4314767,
+        "religious": {
+            "Christianity": 94.9,
+            "Other": 5.1
+        }
+    },
+    {
+        "id": 134,
+        "country": "Papua New Guinea",
+        "code": "PG",
+        "flag": "🇵🇬",
+        "capital": "Port Moresby",
+        "population": 8947027,
+        "religious": {
+            "Christianity": 96.1,
+            "Other": 3.9
+        }
+    },
+    {
+        "id": 135,
+        "country": "Paraguay",
+        "code": "PY",
+        "flag": "🇵🇾",
+        "capital": "Asunción",
+        "population": 7132530,
+        "religious": {
+            "Christianity": 96.9,
+            "Other": 3.1
+        }
+    },
+    {
+        "id": 131,
+        "country": "Palau",
+        "code": "PW",
+        "flag": "🇵🇼",
+        "capital": "Ngerulmud",
+        "population": 18094,
+        "religious": {
+            "Christianity": 86,
+            "Modekngei": 9.7,
+            "Other": 4.3
+        }
+    },
+    {
+        "id": 132,
+        "country": "Palestine",
+        "code": "PS",
+        "flag": "🇵🇸",
+        "capital": "Ramallah",
+        "population": 5101414,
+        "religious": {
+            "Islam": 85,
+            "Christianity": 14,
+            "Other": 1
+        }
+    },
+    {
+        "id": 133,
+        "country": "Panama",
+        "code": "PA",
+        "flag": "🇵🇦",
+        "capital": "Panama City",
+        "population": 4314767,
+        "religious": {
+            "Christianity": 94.9,
+            "Other": 5.1
+        }
+    },
+    {
+        "id": 134,
+        "country": "Papua New Guinea",
+        "code": "PG",
+        "flag": "🇵🇬",
+        "capital": "Port Moresby",
+        "population": 8947027,
+        "religious": {
+            "Christianity": 96.1,
+            "Other": 3.9
+        }
+    },
+    {
+        "id": 135,
+        "country": "Paraguay",
+        "code": "PY",
+        "flag": "🇵🇾",
+        "capital": "Asunción",
+        "population": 7132530,
+        "religious": {
+            "Christianity": 96.9,
+            "Other": 3.1
+        }
+    },
+    {
+        "id": 136,
+        "country": "Peru",
+        "code": "PE",
+        "flag": "🇵🇪",
+        "capital": "Lima",
+        "population": 32971854,
+        "religious": {
+            "Christianity": 92.5,
+            "Other": 7.5
+        }
+    },
+    {
+        "id": 137,
+        "country": "Philippines",
+        "code": "PH",
+        "flag": "🇵🇭",
+        "capital": "Manila",
+        "population": 109581085,
+        "religious": {
+            "Christianity": 92.5,
+            "Islam": 5.6,
+            "Other": 1.9
+        }
+    },
+    {
+        "id": 138,
+        "country": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "capital": "Warsaw",
+        "population": 38386000,
+        "religious": {
+            "Christianity": 94.3,
+            "Other": 5.7
+        }
+    },
+    {
+        "id": 139,
+        "country": "Portugal",
+        "code": "PT",
+        "flag": "🇵🇹",
+        "capital": "Lisbon",
+        "population": 10196709,
+        "religious": {
+            "Christianity": 81,
+            "Other": 19
+        }
+    },
+    {
+        "id": 140,
+        "country": "Qatar",
+        "code": "QA",
+        "flag": "🇶🇦",
+        "capital": "Doha",
+        "population": 2881060,
+        "religious": {
+            "Islam": 67.7,
+            "Christianity": 13.8,
+            "Hinduism": 13.8,
+            "Buddhism": 3.1,
+            "Other": 1.6
+        }
+    },
+    {
+        "id": 141,
+        "country": "Romania",
+        "code": "RO",
+        "flag": "🇷🇴",
+        "capital": "Bucharest",
+        "population": 19237691,
+        "religious": {
+            "Christianity": 99.5,
+            "Other": 0.5
+        }
+    },
+    {
+        "id": 142,
+        "country": "Russia",
+        "code": "RU",
+        "flag": "🇷🇺",
+        "capital": "Moscow",
+        "population": 145912025,
+        "religious": {
+            "Christianity": 47.1,
+            "Islam": 10,
+            "Unaffiliated": 40,
+            "Other": 2.9
+        }
+    },
+    {
+        "id": 143,
+        "country": "Rwanda",
+        "code": "RW",
+        "flag": "🇷🇼",
+        "capital": "Kigali",
+        "population": 12952218,
+        "religious": {
+            "Christianity": 93.6,
+            "Other": 6.4
+        }
+    },
+    {
+        "id": 144,
+        "country": "Saint Kitts and Nevis",
+        "code": "KN",
+        "flag": "🇰🇳",
+        "capital": "Basseterre",
+        "population": 53192,
+        "religious": {
+            "Christianity": 94,
+            "Other": 6
+        }
+    },
+    {
+        "id": 145,
+        "country": "Saint Lucia",
+        "code": "LC",
+        "flag": "🇱🇨",
+        "capital": "Castries",
+        "population": 183627,
+        "religious": {
+            "Christianity": 90.2,
+            "Other": 9.8
+        }
+    },
+    {
+        "id": 146,
+        "country": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "flag": "🇻🇨",
+        "capital": "Kingstown",
+        "population": 110210,
+        "religious": {
+            "Christianity": 76,
+            "Hinduism": 13,
+            "Other": 11
+        }
+    },
+    {
+        "id": 147,
+        "country": "Samoa",
+        "code": "WS",
+        "flag": "🇼🇸",
+        "capital": "Apia",
+        "population": 198414,
+        "religious": {
+            "Christianity": 98.3,
+            "Other": 1.7
+        }
+    },
+    {
+        "id": 148,
+        "country": "San Marino",
+        "code": "SM",
+        "flag": "🇸🇲",
+        "capital": "City of San Marino",
+        "population": 33931,
+        "religious": {
+            "Christianity": 95.6,
+            "Other": 4.4
+        }
+    },
+    {
+        "id": 149,
+        "country": "Sao Tome and Principe",
+        "code": "ST",
+        "flag": "🇸🇹",
+        "capital": "São Tomé",
+        "population": 219159,
+        "religious": {
+            "Christianity": 82.2,
+            "Islam": 0.4,
+            "Other": 17.4
+        }
+    },
+    {
+        "id": 150,
+        "country": "Saudi Arabia",
+        "code": "SA",
+        "flag": "🇸🇦",
+        "capital": "Riyadh",
+        "population": 34813871,
+        "religious": {
+            "Islam": 100,
+            "Other": 0
+        }
+    },
+
+    {
+        "id": 151,
+        "country": "Senegal",
+        "code": "SN",
+        "flag": "🇸🇳",
+        "capital": "Dakar",
+        "population": 16743927,
+        "religious": {
+            "Islam": 95,
+            "Christianity": 4,
+            "Other": 1
+        }
+    },
+    {
+        "id": 152,
+        "country": "Serbia",
+        "code": "RS",
+        "flag": "🇷🇸",
+        "capital": "Belgrade",
+        "population": 8737371,
+        "religious": {
+            "Christianity": 91,
+            "Islam": 3,
+            "Other": 6
+        }
+    },
+    {
+        "id": 153,
+        "country": "Seychelles",
+        "code": "SC",
+        "flag": "🇸🇨",
+        "capital": "Victoria",
+        "population": 98347,
+        "religious": {
+            "Christianity": 76.2,
+            "Hinduism": 2.4,
+            "Islam": 1.6,
+            "Other": 19.8
+        }
+    },
+    {
+        "id": 154,
+        "country": "Sierra Leone",
+        "code": "SL",
+        "flag": "🇸🇱",
+        "capital": "Freetown",
+        "population": 7976983,
+        "religious": {
+            "Islam": 78,
+            "Christianity": 21,
+            "Other": 1
+        }
+    },
+    {
+        "id": 155,
+        "country": "Singapore",
+        "code": "SG",
+        "flag": "🇸🇬",
+        "capital": "Singapore",
+        "population": 5850342,
+        "religious": {
+            "Buddhism": 33.2,
+            "Christianity": 18.8,
+            "Islam": 14,
+            "Taoism": 10,
+            "Hinduism": 5,
+            "Other": 18
+        }
+    },
+    {
+        "id": 156,
+        "country": "Slovakia",
+        "code": "SK",
+        "flag": "🇸🇰",
+        "capital": "Bratislava",
+        "population": 5460109,
+        "religious": {
+            "Christianity": 72,
+            "Non-religious": 13.4,
+            "Other": 14.6
+        }
+    },
+    {
+        "id": 157,
+        "country": "Slovenia",
+        "code": "SI",
+        "flag": "🇸🇮",
+        "capital": "Ljubljana",
+        "population": 2078938,
+        "religious": {
+            "Christianity": 71.6,
+            "Other": 28.4
+        }
+    },
+    {
+        "id": 158,
+        "country": "Solomon Islands",
+        "code": "SB",
+        "flag": "🇸🇧",
+        "capital": "Honiara",
+        "population": 686884,
+        "religious": {
+            "Christianity": 97.3,
+            "Other": 2.7
+        }
+    },
+    {
+        "id": 159,
+        "country": "Somalia",
+        "code": "SO",
+        "flag": "🇸🇴",
+        "capital": "Mogadishu",
+        "population": 15893219,
+        "religious": {
+            "Islam": 99.9,
+            "Other": 0.1
+        }
+    },
+    {
+        "id": 160,
+        "country": "South Africa",
+        "code": "ZA",
+        "flag": "🇿🇦",
+        "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+        "population": 59308690,
+        "religious": {
+            "Christianity": 80.5,
+            "Islam": 1.5,
+            "Other": 18
+        }
+    },
+    {
+        "id": 161,
+        "country": "South Korea",
+        "code": "KR",
+        "flag": "🇰🇷",
+        "capital": "Seoul",
+        "population": 51269185,
+        "religious": {
+            "Buddhism": 22.8,
+            "Christianity": 29.2,
+            "Other": 48
+        }
+    },
+    {
+        "id": 162,
+        "country": "South Sudan",
+        "code": "SS",
+        "flag": "🇸🇸",
+        "capital": "Juba",
+        "population": 11193729,
+        "religious": {
+            "Christianity": 60.5,
+            "Islam": 6.2,
+            "Folk Religions": 32.5,
+            "Other": 0.8
+        }
+    },
+    {
+        "id": 163,
+        "country": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "capital": "Madrid",
+        "population": 46754778,
+        "religious": {
+            "Christianity": 68.8,
+            "Non-religious": 27.7,
+            "Islam": 2.1,
+            "Other": 1.4
+        }
+    },
+    {
+        "id": 164,
+        "country": "Sri Lanka",
+        "code": "LK",
+        "flag": "🇱🇰",
+        "capital": "Colombo, Sri Jayawardenepura Kotte",
+        "population": 21413249,
+        "religious": {
+            "Buddhism": 70.2,
+            "Hinduism": 12.6,
+            "Islam": 9.7,
+            "Christianity": 7.4,
+            "Other": 0.1
+        }
+    },
+    {
+        "id": 165,
+        "country": "Sudan",
+        "code": "SD",
+        "flag": "🇸🇩",
+        "capital": "Khartoum",
+        "population": 43849260,
+        "religious": {
+            "Islam": 97,
+            "Christianity": 3,
+            "Other": 0
+        }
+    },
+    {
+        "id": 166,
+        "country": "Suriname",
+        "code": "SR",
+        "flag": "🇸🇷",
+        "capital": "Paramaribo",
+        "population": 586632,
+        "religious": {
+            "Christianity": 48.4,
+            "Hinduism": 22.3,
+            "Islam": 13.9,
+            "Other": 15.4
+        }
+    },
+    {
+        "id": 167,
+        "country": "Sweden",
+        "code": "SE",
+        "flag": "🇸🇪",
+        "capital": "Stockholm",
+        "population": 10099265,
+        "religious": {
+            "Christianity": 57.7,
+            "Non-religious": 36.7,
+            "Islam": 1.8,
+            "Other": 3.8
+        }
+    },
+    {
+        "id": 168,
+        "country": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "capital": "Bern",
+        "population": 8654622,
+        "religious": {
+            "Christianity": 66.8,
+            "Non-religious": 25.8,
+            "Islam": 5.1,
+            "Other": 2.3
+        }
+    },
+    {
+        "id": 169,
+        "country": "Syria",
+        "code": "SY",
+        "flag": "🇸🇾",
+        "capital": "Damascus",
+        "population": 17500658,
+        "religious": {
+            "Islam": 87,
+            "Christianity": 10,
+            "Other": 3
+        }
+    },
+    {
+        "id": 170,
+        "country": "Taiwan",
+        "code": "TW",
+        "flag": "🇹🇼",
+        "capital": "Taipei",
+        "population": 23816775,
+        "religious": {
+            "Buddhism": 35.3,
+            "Taoism": 33.2,
+            "Christianity": 3.9,
+            "Other": 27.6
+        }
+    },
+    {
+        "id": 171,
+        "country": "Tajikistan",
+        "code": "TJ",
+        "flag": "🇹🇯",
+        "capital": "Dushanbe",
+        "population": 9537645,
+        "religious": {
+            "Islam": 98,
+            "Christianity": 1,
+            "Other": 1
+        }
+    },
+    {
+        "id": 172,
+        "country": "Tanzania",
+        "code": "TZ",
+        "flag": "🇹🇿",
+        "capital": "Dodoma",
+        "population": 59734218,
+        "religious": {
+            "Christianity": 61.4,
+            "Islam": 35.2,
+            "Other": 3.4
+        }
+    },
+    {
+        "id": 173,
+        "country": "Thailand",
+        "code": "TH",
+        "flag": "🇹🇭",
+        "capital": "Bangkok",
+        "population": 69799978,
+        "religious": {
+            "Buddhism": 94.5,
+            "Islam": 4.3,
+            "Other": 1.2
+        }
+    },
+    {
+        "id": 174,
+        "country": "Timor-Leste",
+        "code": "TL",
+        "flag": "🇹🇱",
+        "capital": "Dili",
+        "population": 1318445,
+        "religious": {
+            "Christianity": 99.1,
+            "Islam": 0.2,
+            "Other": 0.7
+        }
+    },
+    {
+        "id": 175,
+        "country": "Togo",
+        "code": "TG",
+        "flag": "🇹🇬",
+        "capital": "Lomé",
+        "population": 8278724,
+        "religious": {
+            "Christianity": 43.7,
+            "Islam": 14,
+            "Traditional African Religions": 41.9,
+            "Other": 0.4
+        }
+    },
+    {
+        "id": 176,
+        "country": "Tonga",
+        "code": "TO",
+        "flag": "🇹🇴",
+        "capital": "Nuku'alofa",
+        "population": 105697,
+        "religious": {
+            "Christianity": 97,
+            "Other": 3
+        }
+    },
+    {
+        "id": 177,
+        "country": "Trinidad and Tobago",
+        "code": "TT",
+        "flag": "🇹🇹",
+        "capital": "Port of Spain",
+        "population": 1399488,
+        "religious": {
+            "Christianity": 55.3,
+            "Hinduism": 18.2,
+            "Islam": 5,
+            "Other": 21.5
+        }
+    },
+    {
+        "id": 178,
+        "country": "Tunisia",
+        "code": "TN",
+        "flag": "🇹🇳",
+        "capital": "Tunis",
+        "population": 11818619,
+        "religious": {
+            "Islam": 99.1,
+            "Christianity": 0.3,
+            "Other": 0.6
+        }
+    },
+    {
+        "id": 179,
+        "country": "Turkey",
+        "code": "TR",
+        "flag": "🇹🇷",
+        "capital": "Ankara",
+        "population": 84339067,
+        "religious": {
+            "Islam": 99.8,
+            "Other": 0.2
+        }
+    },
+    {
+        "id": 180,
+        "country": "Turkmenistan",
+        "code": "TM",
+        "flag": "🇹🇲",
+        "capital": "Ashgabat",
+        "population": 6031187,
+        "religious": {
+            "Islam": 89,
+            "Christianity": 6,
+            "Other": 5
+        }
+    },
+    {
+        "id": 181,
+        "country": "Tuvalu",
+        "code": "TV",
+        "flag": "🇹🇻",
+        "capital": "Funafuti",
+        "population": 11792,
+        "religious": {
+            "Christianity": 92,
+            "Other": 8
+        }
+    },
+    {
+        "id": 182,
+        "country": "Uganda",
+        "code": "UG",
+        "flag": "🇺🇬",
+        "capital": "Kampala",
+        "population": 45741007,
+        "religious": {
+            "Christianity": 85.2,
+            "Islam": 13.7,
+            "Other": 1.1
+        }
+    },
+    {
+        "id": 183,
+        "country": "Ukraine",
+        "code": "UA",
+        "flag": "🇺🇦",
+        "capital": "Kyiv",
+        "population": 43733762,
+        "religious": {
+            "Christianity": 87.5,
+            "Non-religious": 7.8,
+            "Other": 4.7
+        }
+    },
+    {
+        "id": 184,
+        "country": "United Arab Emirates",
+        "code": "AE",
+        "flag": "🇦🇪",
+        "capital": "Abu Dhabi",
+        "population": 9890402,
+        "religious": {
+            "Islam": 76,
+            "Christianity": 13,
+            "Hinduism": 7,
+            "Other": 4
+        }
+    },
+    {
+        "id": 185,
+        "country": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "capital": "London",
+        "population": 67886011,
+        "religious": {
+            "Christianity": 59.5,
+            "Non-religious": 24.7,
+            "Islam": 4.4,
+            "Other": 11.4
+        }
+    },
+    {
+        "id": 186,
+        "country": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "religious": {
+            "Christianity": 65,
+            "Non-religious": 26,
+            "Judaism": 2,
+            "Islam": 1,
+            "Buddhism": 1,
+            "Hinduism": 1,
+            "Other": 4
+        }
+    },
+    {
+        "id": 187,
+        "country": "Uruguay",
+        "code": "UY",
+        "flag": "🇺🇾",
+        "capital": "Montevideo",
+        "population": 3473730,
+        "religious": {
+            "Christianity": 58,
+            "Non-religious": 37,
+            "Other": 5
+        }
+    },
+    {
+        "id": 188,
+        "country": "Uzbekistan",
+        "code": "UZ",
+        "flag": "🇺🇿",
+        "capital": "Tashkent",
+        "population": 33469203,
+        "religious": {
+            "Islam": 79,
+            "Christianity": 5,
+            "Other": 16
+        }
+    },
+    {
+        "id": 189,
+        "country": "Vanuatu",
+        "code": "VU",
+        "flag": "🇻🇺",
+        "capital": "Port Vila",
+        "population": 307145,
+        "religious": {
+            "Christianity": 83,
+            "Other": 17
+        }
+    },
+    {
+        "id": 190,
+        "country": "Vatican City",
+        "code": "VA",
+        "flag": "🇻🇦",
+        "capital": "Vatican City",
+        "population": 801,
+        "religious": {
+            "Christianity": 100
+        }
+    },
+    {
+        "id": 191,
+        "country": "Venezuela",
+        "code": "VE",
+        "flag": "🇻🇪",
+        "capital": "Caracas",
+        "population": 28435940,
+        "religious": {
+            "Christianity": 96,
+            "Other": 4
+        }
+    },
+    {
+        "id": 192,
+        "country": "Vietnam",
+        "code": "VN",
+        "flag": "🇻🇳",
+        "capital": "Hanoi",
+        "population": 97338579,
+        "religious": {
+            "Buddhism": 73.2,
+            "Christianity": 6.9,
+            "Other": 19.9
+        }
+    },
+    {
+        "id": 193,
+        "country": "Yemen",
+        "code": "YE",
+        "flag": "🇾🇪",
+        "capital": "Sana'a",
+        "population": 29825964,
+        "religious": {
+            "Islam": 99,
+            "Other": 1
+        }
+    },
+    {
+        "id": 194,
+        "country": "Zambia",
+        "code": "ZM",
+        "flag": "🇿🇲",
+        "capital": "Lusaka",
+        "population": 18383956,
+        "religious": {
+            "Christianity": 75.3,
+            "Islam": 12.1,
+            "Other": 12.6
+        }
+    },
+    {
+        "id": 195,
+        "country": "Zimbabwe",
+        "code": "ZW",
+        "flag": "🇿🇼",
+        "capital": "Harare",
+        "population": 14862924,
+        "religious": {
+            "Christianity": 84,
+            "Other": 16
+        }
+    }
+]
